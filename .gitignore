@@ -1,0 +1,26 @@
+# Verilog simulation outputs
+sim_output/
+*.vcd
+*.vvp
+*.o
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
